@@ -1,0 +1,425 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Oliur Tech Alpha Gaming PC (Ryzen 5 5600G, 16GB RAM, 512GB NVMe, Vega 7 Graphics)",
+      "description": "The perfect budget-friendly gaming and productivity PC built in-house by Oliur Tech experts. It offers fantastic performance for popular games like Valorant, GTA V, and PUBG, as well as office work, video editing, and CCTV management.",
+      "price": 34500,
+      "originalPrice": 38000,
+      "category": "desktop",
+      "brand": "Oliur Tech",
+      "stock": 12,
+      "rating": 4.8,
+      "images": [
+        "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Processor": "AMD Ryzen 5 5600G (6 Cores, 12 Threads, up to 4.4 GHz)",
+        "Motherboard": "MSI B450M-A Pro Max",
+        "Memory (RAM)": "16GB DDR4 3200MHz Corsair Vengeance",
+        "Storage": "512GB M.2 NVMe PCIe SSD",
+        "Graphics": "Radeon Vega 7 Graphics (Integrated)",
+        "Casing": "Oliur Tech RGB Acrylic Mid-Tower with 4 Fans",
+        "Power Supply": "Value-Top 500W Reliable Power",
+        "Warranty": "3 Years limited parts warranty"
+      },
+      "reviews": [
+        {
+          "id": "rev-1",
+          "name": "Tariqul Islam",
+          "rating": 5,
+          "comment": "Amazing build quality. Super fast performance for my freelance web design and light gaming. Highly recommended!",
+          "date": "2026-05-15"
+        },
+        {
+          "id": "rev-2",
+          "name": "Nusrat Jahan",
+          "rating": 4,
+          "comment": "Great behavior from the shop staff. PC runs very smoothly.",
+          "date": "2026-05-20"
+        }
+      ],
+      "featured": true,
+      "bestSelling": true,
+      "newArrival": false
+    },
+    {
+      "id": "prod-2",
+      "name": "Oliur Tech Ultimate Creator Workstation (Intel i7 13th Gen, RTX 4060 8GB, 32GB RAM)",
+      "description": "High-end content creation and 1080p/1440p gaming machine. Equipped with Nvidia RTX 4060 for hardware-accelerated rendering, Al editing, and beautiful ray-traced visuals. Tailored for Dhaka's professional graphic designers, architect renderers, and video editors.",
+      "price": 95000,
+      "originalPrice": 105000,
+      "category": "desktop",
+      "brand": "Oliur Tech",
+      "stock": 5,
+      "rating": 4.9,
+      "images": [
+        "https://images.unsplash.com/photo-1621259182978-f09e5e249303?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Processor": "Intel Core i7-13700F (16 Cores, 24 Threads, up to 5.2 GHz)",
+        "Motherboard": "Gigabyte B760M DS3H AX DDR4",
+        "Memory (RAM)": "32GB (16GBx2) DDR4 3200MHz G.Skill Ripjaws V",
+        "Storage": "1TB Samsung 980 NVMe SSD",
+        "GraphicsCard": "Zotac Gaming GeForce RTX 4060 Twin Edge 8GB GDDR6",
+        "Casing": "Antec AX61 Elite ARGB ATX Case",
+        "Power Supply": "Corsair CV650 650W 80 Plus Bronze",
+        "Cooler": "Deepcool AG400 ARGB CPU Cooler",
+        "Warranty": "2 Years component warranty"
+      },
+      "reviews": [],
+      "featured": true,
+      "bestSelling": false,
+      "newArrival": true
+    },
+    {
+      "id": "prod-3",
+      "name": "Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 Laptop",
+      "description": "Premium mid-range notebook designed for modern students, programmers, and office users. Ultra-thin, light-weight, equipped with a fast AMD Ryzen processor, full responsive keyboard, and exceptionally long battery life.",
+      "price": 63500,
+      "originalPrice": 67000,
+      "category": "laptop",
+      "brand": "Lenovo",
+      "stock": 8,
+      "rating": 4.7,
+      "images": [
+        "https://images.unsplash.com/photo-1496181130204-755241544e35?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Processor": "AMD Ryzen 5 7520U (4 Cores, 8 Threads)",
+        "Memory (RAM)": "16GB LPDDR5 5500MHz Dual Channel",
+        "Storage": "512GB PCIe M.2 NVMe SSD",
+        "Graphics": "AMD Radeon 610M Graphics",
+        "Display": "15.6 Inch Full HD (1920x1080) IPS, Anti-glare",
+        "Operating System": "Windows 11 Home Genuine",
+        "Weight": "1.55 kg",
+        "Warranty": "2 Years International Warranty"
+      },
+      "reviews": [
+        {
+          "id": "rev-3",
+          "name": "Rakib Hasan",
+          "rating": 5,
+          "comment": "Excellent laptop for coding. Battery backup is around 5-6 hours. Typing is satisfying.",
+          "date": "2026-04-12"
+        }
+      ],
+      "featured": true,
+      "bestSelling": true,
+      "newArrival": false
+    },
+    {
+      "id": "prod-4",
+      "name": "Asus Vivobook 15 X1504VA Core i5 13th Gen Laptop",
+      "description": "Sleek and dependable daily driver with Intel's 13th Gen Core i5 processor. Features a beautiful 180-degree lay-flat hinge, physical webcam shield, and Asus antimicrobial guard. Perfect for corporate setups and advanced learning tasks.",
+      "price": 76500,
+      "originalPrice": 79500,
+      "category": "laptop",
+      "brand": "Asus",
+      "stock": 6,
+      "rating": 4.6,
+      "images": [
+        "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Processor": "Intel Core i5-1335U (10 Cores, 12 Threads, up to 4.6 GHz)",
+        "Memory (RAM)": "8GB DDR4 (Expandable to 16GB)",
+        "Storage": "512GB M.2 NVMe PCIe SSD",
+        "Graphics": "Intel Iris Xe Graphics",
+        "Display": "15.6 Inch FHD (1920x1080) IPS Level, Slid-Bezel",
+        "Keyboard": "Backlit Chiclet Keyboard with Num-Key",
+        "Warranty": "2 Years Official Warranty"
+      },
+      "reviews": [],
+      "featured": false,
+      "bestSelling": false,
+      "newArrival": true
+    },
+    {
+      "id": "prod-5",
+      "name": "MSI Pro MP223 21.45\" 100Hz Full HD Monitor",
+      "description": "Maximize productivity and eye comfort with the MSI Pro 100Hz professional monitor. Comes with Anti-flicker, Blue light filter, and standard wall mount compatibility. The high 100Hz refresh rate ensures butter-smooth visual navigation and UI responsiveness.",
+      "price": 10500,
+      "originalPrice": 12500,
+      "category": "monitor",
+      "brand": "MSI",
+      "stock": 20,
+      "rating": 4.5,
+      "images": [
+        "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Brand": "MSI",
+        "Model": "Pro MP223",
+        "Display Size": "21.45 Inch Full HD (1920x1080)",
+        "Refresh Rate": "100Hz",
+        "Panel Type": "VA Wide-Angle",
+        "Response Time": "1ms (MPRT) / 4ms (GTG)",
+        "Inputs": "1x HDMI 1.4, 1x D-Sub (VGA)",
+        "Eye Care": "TUV Certified Anti-Flicker & Less Blue Light",
+        "Warranty": "3 Years Brand Warranty"
+      },
+      "reviews": [],
+      "featured": true,
+      "bestSelling": true,
+      "newArrival": false
+    },
+    {
+      "id": "prod-6",
+      "name": "Xiaomi Redmi RMMNT215NF 21.45\" FHD Monitor",
+      "description": "Minimalist ultra-slim bezels and gorgeous true-color rendering. Perfect secondary screen or client-facing display. Designed with premium aluminum housing, 75Hz refresh rate for comfortable reading, and solid stability.",
+      "price": 9500,
+      "originalPrice": 10800,
+      "category": "monitor",
+      "brand": "Xiaomi",
+      "stock": 15,
+      "rating": 4.6,
+      "images": [
+        "https://images.unsplash.com/photo-1547119957-637f8679db1e?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Brand": "Xiaomi Redmi",
+        "Model": "RMMNT215NF",
+        "Display Size": "21.45 Inch Full HD",
+        "Refresh Rate": "75Hz",
+        "Panel Type": "VA Panel",
+        "Contrast": "3000:1 Stable Contrast Ratio",
+        "Brightness": "250 nits",
+        "Warranty": "2 Years Warranty"
+      },
+      "reviews": [],
+      "featured": false,
+      "bestSelling": false,
+      "newArrival": true
+    },
+    {
+      "id": "prod-7",
+      "name": "Hikvision DS-2CE16D0T-IRPF 2MP Bullet Analog Camera",
+      "description": "Outstanding outdoor CCTV cameras for homes, retail counters, and office boundaries. Features advanced night-vision technology up to 20 meters, weatherproof outer casing (IP66), and switchable video output signal standard (TVI/AHD/CVI/CVBS).",
+      "price": 1850,
+      "originalPrice": 2200,
+      "category": "cctv",
+      "brand": "Hikvision",
+      "stock": 100,
+      "rating": 4.7,
+      "images": [
+        "https://images.unsplash.com/photo-1548345680-f5475ea5df84?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Brand": "Hikvision",
+        "Lens Type": "3.6mm fixed lens",
+        "Resolution": "2 Megapixel (1920x1080) Full HD",
+        "Night Vision": "IR Cut filter, up to 20m IR Range",
+        "Ingress Protection": "IP67 Weatherproof (Excellent for outdoor installation)",
+        "Weight": "150g"
+      },
+      "reviews": [
+        {
+          "id": "rev-4",
+          "name": "Mamun Bhuiyan",
+          "rating": 5,
+          "comment": "Perfect night vision. Very clear in low light and heavy rain.",
+          "date": "2026-03-01"
+        }
+      ],
+      "featured": true,
+      "bestSelling": true,
+      "newArrival": false
+    },
+    {
+      "id": "prod-8",
+      "name": "Oliur Tech Ultra-HD 4-Camera Wireless IP WiFi Camera Kit",
+      "description": "A comprehensive self-contained smart home CCTV solution. Contains 4 ultra-wide smart wireless cameras, 1 standalone NVR receiver, power supplies, and intuitive mobile app configuration guidelines. Easy DIY setup or professional Oliur Tech deployment.",
+      "price": 12500,
+      "originalPrice": 14500,
+      "category": "cctv",
+      "brand": "Oliur Tech",
+      "stock": 18,
+      "rating": 4.9,
+      "images": [
+        "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Cameras Included": "4x 3 Megapixel Ultra-HD Dome Waterproof Cameras",
+        "Recording Terminal": "1x Smart NVR (Network Video Recorder) with WiFi antennas",
+        "Max Storage": "Supports up to 6TB SATA HDD (Storage sold separately)",
+        "Mobile App Support": "Real-time remote preview via Android/iOS app with alarm pushing",
+        "Audio Setup": "Built-in microphone for dual-channel audio recording",
+        "Installation Support": "Free Remote Guide & standard onsite installation at special discounts"
+      },
+      "reviews": [],
+      "featured": true,
+      "bestSelling": false,
+      "newArrival": true
+    },
+    {
+      "id": "prod-9",
+      "name": "Xiaomi Redmi Note 13 4G Smartphone (8GB/256GB)",
+      "description": "Leading global mid-range phone with stunning AMOLED 120Hz display, a stellar 108 Megapixel triple camera, and robust Snapdragon processors. Equipped with massive 5000mAh battery with rapid 33W super-charge support.",
+      "price": 22999,
+      "originalPrice": 24999,
+      "category": "smartphone",
+      "brand": "Xiaomi",
+      "stock": 14,
+      "rating": 4.8,
+      "images": [
+        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "RAM/Internal": "8GB LPDDR4X RAM / 256GB UFS 2.2 Storage",
+        "Processor": "Snapdragon 685 (6nm octa-core processor)",
+        "Screen": "6.67 Inch FHD+ Flow AMOLED, 120Hz Refresh Rate",
+        "Rear Camera": "108MP Main + 8MP Wide + 2MP Macro Triple Camera",
+        "Battery": "5000mAh with 33W Fast Charging and box accessories",
+        "Warranty": "1 Year Official Warranty in Bangladesh"
+      },
+      "reviews": [],
+      "featured": true,
+      "bestSelling": true,
+      "newArrival": false
+    },
+    {
+      "id": "prod-10",
+      "name": "Fantech HG11 Captain 7.1 Virtual Surround Sound Gaming Headset",
+      "description": "Stunning noise-isolating gaming headphones for pure immersion. Dynamic metal construction paired with breathable protein ear cups, noise-canceling bendable microphone, and premium virtual 7.1 audio driver software control.",
+      "price": 2450,
+      "originalPrice": 2900,
+      "category": "accessories",
+      "brand": "Fantech",
+      "stock": 45,
+      "rating": 4.7,
+      "images": [
+        "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=600&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Audio Channel": "Virtual 7.1 Surround Sound engine",
+        "Connection": "Gold-plated USB digital receiver",
+        "Microphone Tech": "Omnidirectional active noise suppression",
+        "LED Lighting": "Static RGB lighting glow circles",
+        "Cable Length": "2.2 Meters plastic braided cable"
+      },
+      "reviews": [],
+      "featured": true,
+      "bestSelling": true,
+      "newArrival": false
+    },
+    {
+      "id": "prod-11",
+      "name": "A4Tech OP-620D USB Optical Wired Mouse",
+      "description": "The absolute classic corporate office and cyber-cafe mouse. Exceptional durability, double clicks prevent technologies, and precise 1000 DPI tracking sensor. Comfortable build suited for long hours of typing and point-and-click work.",
+      "price": 450,
+      "originalPrice": 520,
+      "category": "accessories",
+      "brand": "A4Tech",
+      "stock": 350,
+      "rating": 4.6,
+      "images": [
+        "https://images.unsplash.com/photo-1527866990264-a50d73a8efb1?w=600&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "Brand": "A4Tech",
+        "Connector": "Wired USB Type-A",
+        "Tracking Resolution": "1000 DPI Sensor",
+        "Cable Length": "1.5 Meters",
+        "Buttons Count": "4 Buttons with scroll wheel",
+        "Warranty": "1 Year Official Warranty"
+      },
+      "reviews": [],
+      "featured": false,
+      "bestSelling": false,
+      "newArrival": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-10023",
+      "userId": "user-2",
+      "customerName": "Demo Customer",
+      "customerEmail": "customer@gmail.com",
+      "customerPhone": "01827104825",
+      "shippingAddress": "Moghbazar, Dhaka, Bangladesh",
+      "paymentMethod": "bkash",
+      "paymentStatus": "paid",
+      "paymentTxnId": "BKX92837LSH73",
+      "items": [
+        {
+          "id": "prod-5",
+          "name": "MSI Pro MP223 21.45\" 100Hz Full HD Monitor",
+          "price": 10500,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&auto=format&fit=crop&q=80"
+        }
+      ],
+      "subtotal": 10500,
+      "deliveryCharge": 100,
+      "total": 10600,
+      "status": "processing",
+      "createdAt": "2026-05-28T14:32:00.000Z"
+    }
+  ],
+  "serviceRequests": [
+    {
+      "id": "SRV-50931",
+      "userId": "user-2",
+      "serviceType": "computer",
+      "specificService": "Hardware Upgrade",
+      "customerName": "Demo Customer",
+      "customerPhone": "01827104825",
+      "customerEmail": "customer@gmail.com",
+      "customerAddress": "Zinjira, Keraniganj, Dhaka",
+      "preferredDate": "2026-06-03",
+      "preferredTime": "11:00 AM - 01:00 PM",
+      "description": "I would like to upgrade my core i3 6th Gen Desktop. I need to install a 256GB SSD and add an extra 8GB DDR4 RAM to speed up Windows starting times.",
+      "status": "approved",
+      "notes": "Spoke on phone, scheduled technician delivery",
+      "createdAt": "2026-05-30T10:15:00.000Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-1",
+      "name": "Oliur Tech Admin",
+      "email": "admin@oliurtech.com",
+      "phone": "01827104825",
+      "address": "Amin Complex, Zinjira, Keraniganj, Dhaka",
+      "role": "admin"
+    },
+    {
+      "id": "user-2",
+      "name": "Demo Customer",
+      "email": "customer@gmail.com",
+      "phone": "01827104825",
+      "address": "Keraniganj, Dhaka, Bangladesh",
+      "role": "user"
+    }
+  ],
+  "banners": [
+    {
+      "id": "ban-1",
+      "title": "Unleash Ultimate PC Power",
+      "subtitle": "Get up to 15% Discount on Custom Desktop builds! Free assembly & full tech support included.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&auto=format&fit=crop&q=80",
+      "link": "/shop?category=desktop",
+      "active": true
+    },
+    {
+      "id": "ban-2",
+      "title": "Home & Business IP CCTV Surveillance Solutions",
+      "subtitle": "Ensure absolute safety. Modern smart cameras with remote mobile monitoring setup by experts starting from BDT 7,500 only.",
+      "image": "https://images.unsplash.com/photo-1557597774-9d273605dfa9?w=1200&auto=format&fit=crop&q=80",
+      "link": "/cctv-installation",
+      "active": true
+    },
+    {
+      "id": "ban-3",
+      "title": "Latest Corporate Laptops at Best Deals",
+      "subtitle": "Discover Asus, Lenovo, HP laptops with extended warranty and bKash cashback options.",
+      "image": "https://images.unsplash.com/photo-1496181130204-755241544e35?w=1200&auto=format&fit=crop&q=80",
+      "link": "/shop?category=laptop",
+      "active": true
+    }
+  ]
+}

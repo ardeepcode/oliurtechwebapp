@@ -1,0 +1,6 @@
+{
+  "name": "Oliur Tech",
+  "description": "Premium technology e-commerce website and professional IT services booking platform for computer servicing, CCTV camera installation, and smart retail solutions in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
