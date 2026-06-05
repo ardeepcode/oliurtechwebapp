@@ -18,6 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/7553a67a-3c4c-4642-a629-36520
 3. Run the app locally:
    `npm run dev`
 
+If PowerShell blocks `npm` scripts, use:
+   `node --loader tsx server.ts`
+
 ## Deploy to Vercel
 
 1. Connect this GitHub repository to Vercel.
