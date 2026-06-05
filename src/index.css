@@ -17,3 +17,40 @@
 @utility card-shadow {
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
+
+@layer base {
+  body {
+    background-color: #ffffff;
+    color: #0f172a;
+  }
+
+  [class*="bg-slate-950"],
+  [class*="bg-slate-900"],
+  [class*="bg-slate-800"],
+  [class*="bg-slate-700"] {
+    background-color: #ffffff !important;
+    color: #0f172a !important;
+  }
+
+  [class*="bg-slate-600"],
+  [class*="bg-slate-500"],
+  [class*="bg-slate-400"] {
+    background-color: #f8fafc !important;
+    color: #0f172a !important;
+  }
+
+  [class*="text-slate-100"],
+  [class*="text-slate-200"],
+  [class*="text-slate-300"],
+  [class*="text-slate-400"] {
+    color: #475569 !important;
+  }
+
+  [class*="border-slate-900"],
+  [class*="border-slate-800"],
+  [class*="border-slate-700"],
+  [class*="border-slate-600"],
+  [class*="border-slate-500"] {
+    border-color: #e2e8f0 !important;
+  }
+}
