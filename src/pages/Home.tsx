@@ -372,27 +372,6 @@ export const Home: React.FC = () => {
           </div>
         </section>
 
-        {/* 8. Newsletter Signup */}
-        <section className="bg-gradient-to-tr from-slate-950 to-slate-900 text-white rounded-3xl p-6 md:p-10 relative overflow-hidden text-center border border-slate-800">
-          <div className="max-w-xl mx-auto relative z-10">
-            <h3 className="text-lg md:text-xl font-bold tracking-tight mb-2">Subscribe to Campaign offers</h3>
-            <p className="text-slate-400 text-xs mb-6">Stay ahead of special discounts on desktops, computer repairs & CCTV package launches.</p>
-            
-            <div className="flex flex-col sm:flex-row gap-2 max-w-md mx-auto">
-              <input 
-                type="email" 
-                placeholder="Enter email address..."
-                className="bg-slate-900/90 border border-slate-800 focus:outline-none focus:border-blue-500 text-xs px-4 py-2.5 rounded-lg flex-1 text-slate-100 placeholder-slate-500"
-              />
-              <button 
-                onClick={() => alert("Subscribed successfully to Oliur Tech newsletter!")}
-                className="bg-blue-600 hover:bg-blue-500 text-white font-bold text-xs px-5 py-2.5 rounded-lg transition-all cursor-pointer"
-              >
-                Join Now
-              </button>
-            </div>
-          </div>
-        </section>
 
       </div>
     </div>
@@ -408,3 +387,4 @@ export const Home: React.FC = () => {
     ));
   }
 };
+
